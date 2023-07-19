@@ -1,0 +1,75 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "BMW M2",
+        "profile": "https://imgd-ct.aeplcdn.com/393x221/n/cw/ec/150125/m2-exterior-right-front-three-quarter.jpeg?isig=0&q=75",
+        "brand": "BMW",
+        "price": "₹ 98.00 Lakh"
+      },
+      {
+        "id": 2,
+        "name": "Mercedes-Benz AMG SL55 Roadster",
+        "profile": "https://imgd-ct.aeplcdn.com/393x221/n/cw/ec/148919/amg-sl55-roadster-exterior-right-front-three-quarter-2.jpeg?isig=0&q=75",
+        "brand": "Mercedes-Benz",
+        "price":"₹ 2.35 Crore"
+      },
+      {
+        "id": 3,
+        "name": "Toyota Fortuner",
+        "profile": "https://imgd-ct.aeplcdn.com/393x221/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-19.jpeg?q=75",
+        "brand": "TOYOTA",
+        "price":"₹ 32.98 - 50.74 Lakh"
+      },
+      {
+        "id": 4,
+        "name": "Mercedes-Benz G-Class",
+        "profile": "https://imgd-ct.aeplcdn.com/393x221/n/cw/ec/150621/g-class-exterior-right-front-three-quarter.jpeg?isig=0&q=75",
+        "brand": "Mercedes-Benz",
+        "price":"₹ 2.55 Crore"
+      },
+      {
+        "id": 5,
+        "name": "BMW Z4",
+        "profile": "https://imgd-ct.aeplcdn.com/393x221/n/cw/ec/149075/z4-exterior-right-front-three-quarter.jpeg?isig=0&q=75",
+        "brand": "BMW",
+        "price": "₹ 89.30 Lakh"
+      },
+      {
+        "id": 6,
+        "name": "Jeep Compass",
+        "profile": "https://imgd-ct.aeplcdn.com/393x221/n/cw/ec/47051/compass-exterior-right-front-three-quarter-73.jpeg?isig=0&q=75",
+        "brand": "Jeep",
+        "price": "₹ 19.27 - 32.67 Lakh"
+      },
+      {
+        "id": 7,
+        "name": "Jeep Meridian",
+        "profile": "https://imgd-ct.aeplcdn.com/393x221/n/cw/ec/47139/meridian-exterior-right-front-three-quarter-5.jpeg?isig=0&q=75",
+        "brand": "Jeep",
+        "price": "₹ 27.75 - 38.10 Lakh"
+      },
+      {
+        "id": 8,
+        "name": "BMW X3 M40i",
+        "profile": "https://imgd-ct.aeplcdn.com/393x221/n/cw/ec/146751/x3-m40i-exterior-right-front-three-quarter.jpeg?isig=0&q=75",
+        "brand": "BMW",
+        "price": "₹ 86.50 Lakh"
+      },
+      {
+        "id": 9,
+        "name": "Toyota Innova Hycross",
+        "profile": "https://imgd-ct.aeplcdn.com/393x221/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-2.jpeg?isig=0&q=75",
+        "brand": "TOYOTA",
+        "price": "₹ 18.82 - 30.26 Lakh"
+      },
+      {
+        "id": 10,
+        "name": "Chucho Norssister",
+        "profile": "https://imgd-ct.aeplcdn.com/393x221/n/cw/ec/150125/m2-exterior-right-front-three-quarter.jpeg?isig=0&q=75",
+        "brand": "BMW",
+        "price": "₹ 86.50 Lakh"
+      }
+    ],
+    "data":[]
+  }
